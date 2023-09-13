@@ -1,2 +1,2 @@
 # Leetcode
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/22MH1A42G1/Leetcode.git)
+Collection of LeetCode questions to ace the coding interview! - Created using [LeetCode](https://github.com/22MH1A42G1/Leetcode.git)
